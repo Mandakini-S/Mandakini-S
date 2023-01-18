@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi there 👋
+
+- 🔭 I’m currently studying Bachelor of Electronics, Communication and Information Engineering at Pashchimanchal Campus, Pokhara. 
+- 🌱 I’m currently learning React.
+- 📫 How to reach me: mandakinisapkota@gmail.com
+- ❤ Interested in Graphics Designing and web development
+
 
 <!--
 **Mandakini-S/Mandakini-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
