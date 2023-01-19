@@ -25,35 +25,10 @@ Here are some ideas to get you started:
 <!-- For profile visit -->
 <!-- ![](https://komarev.com/ghpvc/?username=Mandakini-S&color=dc143c) -->
 
-<!-- display the social media buttons in your README -->
 
-<!-- [![alt text][1.1]][1]
-[![alt text][2.1]][2] -->
-
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-<!-- [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding) -->
-
-<!-- icons without padding -->
-
-<!-- [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
- -->
-
-
-<!-- links to my social media accounts -->
-
-<!-- [1]: https://twitter.com/mandakini_09
-[2]: https://www.facebook.com/mandakini.sapkota/ -->
-
-
+Connect :
 <div id="badges">
+ 
   <a href="https://www.linkedin.com/in/mandakini-sapkota-945164232/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
