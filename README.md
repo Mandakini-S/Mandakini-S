@@ -21,4 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=Mandakini-S&color=dc143c)
+
+<!-- For profile visit -->
+<!-- ![](https://komarev.com/ghpvc/?username=Mandakini-S&color=dc143c) -->
+
+![Mandakini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mandakini-S&show_icons=true&theme=radical)
