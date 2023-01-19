@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 <!-- display the social media buttons in your README -->
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
+<!-- [![alt text][1.1]][1]
+[![alt text][2.1]][2] -->
 
 
 
@@ -37,19 +37,31 @@ Here are some ideas to get you started:
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+<!-- [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding) -->
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+<!-- [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-
+ -->
 
 
 <!-- links to my social media accounts -->
 
-[1]: https://twitter.com/mandakini_09
-[2]: https://www.facebook.com/mandakini.sapkota/
+<!-- [1]: https://twitter.com/mandakini_09
+[2]: https://www.facebook.com/mandakini.sapkota/ -->
 
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mandakini-sapkota-945164232/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/mandakini.sapkota/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://twitter.com/mandakini_09">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
