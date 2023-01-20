@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 Connect :
 <div id="badges">
  
-  <a href="https://www.linkedin.com/in/mandakini-sapkota-945164232/">
+  <a href="https://www.linkedin.com/in/mandakini-sapkota-945164232/ target=_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/mandakini.sapkota/">
