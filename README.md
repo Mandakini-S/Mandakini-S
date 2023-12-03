@@ -41,4 +41,4 @@ Connect :
 </div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mandakini-S&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![An image of @mandakinis's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mandakinis)](https://holopin.io/@mandakinis#badges)
+[![An image of @mandakinis's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mandakinis#badges)](https://holopin.io/@mandakinis#badges)
