@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 <!-- For profile visit -->
-<!--  ![](https://komarev.com/ghpvc/?username=Mandakini-S&color=dc143c) --> 
+  ![](https://komarev.com/ghpvc/?username=Mandakini-S&color=dc143c)
 
 
 Connect :
