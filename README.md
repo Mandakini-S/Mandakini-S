@@ -1,9 +1,7 @@
 Hi there 👋
 
 - 🔭 I’m currently studying Bachelor of Electronics, Communication and Information Engineering at Pashchimanchal Campus, Pokhara. 
-- 🌱 I’m currently learning React.
 - 📫 How to reach me: mandakinisapkota@gmail.com
-- ❤ Interested in Graphics Designing and web development
 
 
 <!--
@@ -39,6 +37,10 @@ Connect :
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<!--For top language list -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mandakini-s&show_icons=true&locale=en&layout=compact" alt="mandakini-s" /></p> -->
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mandakini-S&theme=dark&hide_border=true)](https://git.io/streak-stats)  -->
+<!-- For Github streak  -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mandakini-S&theme=dark&hide_border=true)](https://git.io/streak-stats) 
+
 [![An image of @mandakinis's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mandakinis)](https://holopin.io/@mandakinis)
