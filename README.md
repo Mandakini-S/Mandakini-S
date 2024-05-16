@@ -1,7 +1,7 @@
 Hi there 👋
 
-- 🔭 I’m currently studying Bachelor of Electronics, Communication and Information Engineering at Pashchimanchal Campus, Pokhara. 
-- 📫 How to reach me: mandakinisapkota@gmail.com
+- Bachelor of Electronics, Communication and Information Engineering at Pashchimanchal Campus, Pokhara. 
+- mandakinisapkota@gmail.com
 
 
 <!--
