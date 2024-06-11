@@ -1,4 +1,4 @@
-Hi there 👋
+Hello!
 
 - Bachelor of Electronics, Communication and Information Engineering at Pashchimanchal Campus, Pokhara. 
 - mandakinisapkota@gmail.com
