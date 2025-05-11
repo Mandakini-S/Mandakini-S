@@ -8,7 +8,7 @@ Web Developer | Engineering Student
 
 - Bachelor of Electronics, Communication and Information Engineering at Pashchimanchal Campus, Pokhara. 
 - mandakinisapkota@gmail.com
-- I'm learning Backend Development.
+- Interested in DevOps and cloud engineering.
 - I'm open to collaborating on Interesting Project Ideas.
 <!--
 **Mandakini-S/Mandakini-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
