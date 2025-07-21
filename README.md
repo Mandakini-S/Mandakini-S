@@ -11,7 +11,7 @@
 - BE in Electronics, Communication & Information Engineering
 - Pashchimanchal Campus, IOE, Tribhuvan University  
 - mandakinisapkota@gmail.com 
-- AWS Certified Cloud Practitioner (CLF-C02) [![Credly Badge](https://images.credly.com/size/110x110/images/684f6a0e-c133-4d88-a0d2-ef1e93b1bba0/image.png)](https://www.credly.com/badges/3bd8db9c-eeba-455f-9ba8-691125a9885b/public_url)  
+- AWS Certified Cloud Practitioner (CLF-C02) <a href="https://www.credly.com/badges/3bd8db9c-eeba-455f-9ba8-691125a9885b/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/110x110/images/684f6a0e-c133-4d88-a0d2-ef1e93b1bba0/image.png" alt="Credly Badge" width="22" style="vertical-align:middle;"/></a>    
 - Passionate about Cloud Engineering,DevOps,and Web Development
 
 ---
