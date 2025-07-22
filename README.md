@@ -30,9 +30,9 @@ Tech stack: **React.js**, **Django**, **PostgreSQL**.
 
 ---
 
-###  [ShubaYatra (Hackathon Winner)](https://github.com/Mandakini-S/ShubaYatra)  
-- Smart travel assistant app to promote safe and informed travel.  
-- 🏆 Winner - **BIC Hackathon V 3.0**
+###  [ShubaYatra (Hackathon Winner)]([https://github.com/Mandakini-S/ShubaYatra](https://github.com/Mandakini-S/SubhaYatra))  
+- A Tourist Companion App  
+- Winner - **BIC Hackathon V 3.0**
 
 ---
 
